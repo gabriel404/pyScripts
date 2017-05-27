@@ -15,14 +15,3 @@ Display video for the song currently playing:
 Display lyrics for any song you want:
 
 <code> musica.py {artist} {song_name} </code>
-
-<h1>hangman</h1>
-
-
-Small HangMan game, it still isn't finished and I'll probably never finish it.
-
-
-<h1>PingPong</h1>
-
-
-PingPong made in Python using pyGame, it still lacks some functions such as Pause and a good AI. However, the part needed on pyGame is totally finished and i'll never finish this one aswell.
